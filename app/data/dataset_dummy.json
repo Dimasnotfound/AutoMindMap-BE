@@ -1,0 +1,71 @@
+[
+    {
+      "text": "Google didirikan oleh Larry Page dan Sergey Brin.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "label": "ORG",
+          "text": "Google"
+        },
+        {
+          "start": 20,
+          "end": 30,
+          "label": "PERSON",
+          "text": "Larry Page"
+        },
+        {
+          "start": 35,
+          "end": 46,
+          "label": "PERSON",
+          "text": "Sergey Brin"
+        }
+      ]
+    },
+    {
+      "text": "Python adalah bahasa pemrograman yang populer.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "label": "LANGUAGE",
+          "text": "Python"
+        }
+      ]
+    },
+    {
+      "text": "AutoMindMap membantu mahasiswa dalam memahami dan menganalisis informasi.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 11,
+          "label": "PRODUCT",
+          "text": "AutoMindMap"
+        },
+        {
+          "start": 20,
+          "end": 29,
+          "label": "ROLE",
+          "text": "mahasiswa"
+        }
+      ]
+    },
+    {
+      "text": "IBM mengembangkan teknologi AI untuk meningkatkan efisiensi bisnis.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 3,
+          "label": "ORG",
+          "text": "IBM"
+        },
+        {
+          "start": 23,
+          "end": 25,
+          "label": "TECHNOLOGY",
+          "text": "AI"
+        }
+      ]
+    }
+  ]
+  
